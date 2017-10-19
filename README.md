@@ -1,4 +1,2 @@
-# gomo-tool
-Gomi-tool
-----
+# gomi-tool
 ゴミツールを放り込むリポジトリ
